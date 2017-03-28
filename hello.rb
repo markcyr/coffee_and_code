@@ -1,1 +1,2 @@
-put "Good Morning"
+puts "Good Morning"
+puts "Welcome to Coffee and Code"
